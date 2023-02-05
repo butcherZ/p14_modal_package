@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/butcherZ/p14_modal_package/issues"
   },
-  "homepage": "https://github.com/butcherZ/p14_modal_package#readme"
+  "homepage": "https://github.com/butcherZ/p14_modal_package#readme",
+  "publishConfig": {
+    "@butcherZ:registry": "https://npm.pkg.github.com"
+  }
 }
