@@ -1,0 +1,19 @@
+{
+  "name": "p14_modal_package",
+  "version": "1.0.0",
+  "description": "modal component for school project",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/butcherZ/p14_modal_package.git"
+  },
+  "author": "Ziyi Yuan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/butcherZ/p14_modal_package/issues"
+  },
+  "homepage": "https://github.com/butcherZ/p14_modal_package#readme"
+}
